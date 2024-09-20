@@ -1,0 +1,14 @@
+endian little
+idstring "SXAR"
+get totalFiles long
+get headerStart long
+get dataStart long
+for i = 0 < totalFiles
+   get nameLength byte
+   getdstring name nameLength
+   get length long
+   math offset = dataStart
+   math offset + length
+   get size long
+   log name offset size
+next i

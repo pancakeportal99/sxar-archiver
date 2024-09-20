@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarfallExArchiver", "StarfallExArchiver.csproj", "{AA9483D7-B14B-44EB-8AB2-B71754D1DA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9483D7-B14B-44EB-8AB2-B71754D1DA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9483D7-B14B-44EB-8AB2-B71754D1DA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9483D7-B14B-44EB-8AB2-B71754D1DA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9483D7-B14B-44EB-8AB2-B71754D1DA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583C35F2-42F1-4225-BAFF-83D1CF613053}
+	EndGlobalSection
+EndGlobal
